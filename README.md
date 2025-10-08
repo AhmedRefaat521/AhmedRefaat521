@@ -1,8 +1,12 @@
-# Hey there, I'm Ahmed Refaat 👋  
+<!-- Header -->
+<h1 align="center">✨ Ahmed Refaat ✨</h1>
+<h3 align="center">Web Developer · Python Learner · Automation Enthusiast 🤖</h3>
 
-Web Developer · Python Learner · Automation & AI Enthusiast 🤖
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedrefaat&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FFCC&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I+love+coding+and+learning+new+techs;Building+for+the+future+🚀" />
+</p>
+
 </p>
 
 ## 🚀 About Me  
@@ -40,5 +44,6 @@ My goal is to keep improving, create useful projects, and share my journey in te
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.refaat.173540)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-refaat-1b73a6344/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AhmedRefaat1423)
+
 
 </div>
